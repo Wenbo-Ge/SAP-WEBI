@@ -10,3 +10,11 @@
 
 ## Query Script Editor "No column name was specified for column 1" error when puting union table in the FROM Clause
    Solution: give the alias name to that column in every union.
+   Then follow the MS SQL Syntax:
+   SELECT A
+   FROM
+   (
+       SELECT A, B FROM TableA
+       UNION
+       SELECT A, B FROM TableB
+   ) AS tbl

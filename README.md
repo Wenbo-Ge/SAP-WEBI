@@ -7,6 +7,7 @@
    1. First need to merge these queries.
    2. Create the new variable for these objects from different queries
    3. Then put them in same report
+   4. Check Avoid duplicate row aggregation
 
 ## Query Script Editor "No column name was specified for column 1" error when puting union table in the FROM Clause
    Solution: give the alias name to that column in every union.

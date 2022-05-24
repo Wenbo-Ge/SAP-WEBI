@@ -19,3 +19,6 @@
        UNION
        SELECT A, B FROM TableB
    ) AS tbl
+   
+   ## Freehand SQL prompt syntax
+    https://answers.sap.com/questions/12672275/implementation-of.html

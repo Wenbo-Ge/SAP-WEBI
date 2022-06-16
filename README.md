@@ -20,5 +20,11 @@
        SELECT A, B FROM TableB
    ) AS tbl
    
-   ## Freehand SQL prompt syntax
+## Freehand SQL prompt syntax
     https://answers.sap.com/questions/12672275/implementation-of.html
+
+## #DATASYNC Error
+   ![image](https://user-images.githubusercontent.com/36894305/174075656-1f0d3a85-5151-47b5-b3d7-1b8fa1085321.png)
+   Just change variable type to measure
+   ![image](https://user-images.githubusercontent.com/36894305/174075867-bb649676-30dd-4bc1-aa0d-93ea12248fab.png)
+
